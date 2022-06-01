@@ -1,3 +1,7 @@
+This Repository contains code for MasterMind Game written in Java using MVC design Pattern.<br />
+Please find the demo for the game in below link<br />
+https://www.youtube.com/shorts/-w7nCXjMIZo<br />
+**Screen shots**<br />
 **Game Page**<br />
 <img width="200" alt="Screen Shot 2022-05-31 at 10 18 56 PM" src="https://user-images.githubusercontent.com/99509067/171335556-20f070fe-2cc2-40ab-91d3-65eaee99c4ef.png"><br />    
 **Winning Page**<br />
